@@ -8,12 +8,11 @@ Este repositório apresenta uma calculadora simples desenvolvida em Python. O ob
 - Subtração
 - Multiplicação
 - Divisão
-- Potenciação
-- Raiz quadrada
+
 
 ## Tecnologias Utilizadas
 
-- Linguagem: Python 3.x
+- Linguagem: Python 
 
 ## Como Executar o Projeto
 
